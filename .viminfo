@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1728300640,,"wq"
+|2,0,1734267822,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,36 +28,94 @@
 |3,1,36,0,1,0,1728300338,"."
 
 # File marks:
-'0  29  0  ~/my-django-blog/blog/templates/blog/post_list.html
-|4,48,29,0,1728300640,"~/my-django-blog/blog/templates/blog/post_list.html"
-'1  5  0  ~/my-django-blog/blog/views.py
-|4,49,5,0,1728300506,"~/my-django-blog/blog/views.py"
-'2  3  0  ~/my-django-blog/blog/urls.py
-|4,50,3,0,1728300414,"~/my-django-blog/blog/urls.py"
-'3  6  34  ~/my-django-blog/mysite/urls.py
-|4,51,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
-'4  119  14  ~/my-django-blog/mysite/settings.py
-|4,52,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
-'5  1  0  ~/my-django-blog/settings.py
-|4,53,1,0,1728299168,"~/my-django-blog/settings.py"
-'6  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,54,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
-'7  5  0  ~/my-django-blog/blog/views.py
-|4,55,5,0,1728297730,"~/my-django-blog/blog/views.py"
-'8  3  0  ~/my-django-blog/blog/urls.py
-|4,56,3,0,1728297656,"~/my-django-blog/blog/urls.py"
-'9  2  36  ~/my-django-blog/mysite/urls.py
-|4,57,2,36,1728297562,"~/my-django-blog/mysite/urls.py"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1734267822,"~/.git/MERGE_MSG"
+'1  5  0  ~/.gitignore
+|4,49,5,0,1734267631,"~/.gitignore"
+'2  29  0  ~/my-django-blog/blog/templates/blog/post_list.html
+|4,50,29,0,1728300640,"~/my-django-blog/blog/templates/blog/post_list.html"
+'3  5  0  ~/my-django-blog/blog/views.py
+|4,51,5,0,1728300506,"~/my-django-blog/blog/views.py"
+'4  3  0  ~/my-django-blog/blog/urls.py
+|4,52,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+'5  6  34  ~/my-django-blog/mysite/urls.py
+|4,53,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+'6  119  14  ~/my-django-blog/mysite/settings.py
+|4,54,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
+'7  1  0  ~/my-django-blog/settings.py
+|4,55,1,0,1728299168,"~/my-django-blog/settings.py"
+'8  26  0  ~/my-django-blog/blog/template/blog/post_list.html
+|4,56,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
+'9  5  0  ~/my-django-blog/blog/views.py
+|4,57,5,0,1728297730,"~/my-django-blog/blog/views.py"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1734267822,"~/.git/MERGE_MSG"
+-'  5  0  ~/.gitignore
+|4,39,5,0,1734267631,"~/.gitignore"
+-'  5  0  ~/.gitignore
+|4,39,5,0,1734267631,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1734267628,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1734267628,"~/.gitignore"
 -'  29  0  ~/my-django-blog/blog/templates/blog/post_list.html
 |4,39,29,0,1728300640,"~/my-django-blog/blog/templates/blog/post_list.html"
+-'  29  0  ~/my-django-blog/blog/templates/blog/post_list.html
+|4,39,29,0,1728300640,"~/my-django-blog/blog/templates/blog/post_list.html"
+-'  29  0  ~/my-django-blog/blog/templates/blog/post_list.html
+|4,39,29,0,1728300640,"~/my-django-blog/blog/templates/blog/post_list.html"
+-'  29  0  ~/my-django-blog/blog/templates/blog/post_list.html
+|4,39,29,0,1728300640,"~/my-django-blog/blog/templates/blog/post_list.html"
+-'  1  0  ~/my-django-blog/blog/templates/blog/post_list.html
+|4,39,1,0,1728300574,"~/my-django-blog/blog/templates/blog/post_list.html"
+-'  1  0  ~/my-django-blog/blog/templates/blog/post_list.html
+|4,39,1,0,1728300574,"~/my-django-blog/blog/templates/blog/post_list.html"
+-'  1  0  ~/my-django-blog/blog/templates/blog/post_list.html
+|4,39,1,0,1728300574,"~/my-django-blog/blog/templates/blog/post_list.html"
 -'  1  0  ~/my-django-blog/blog/templates/blog/post_list.html
 |4,39,1,0,1728300574,"~/my-django-blog/blog/templates/blog/post_list.html"
 -'  5  0  ~/my-django-blog/blog/views.py
 |4,39,5,0,1728300506,"~/my-django-blog/blog/views.py"
 -'  5  0  ~/my-django-blog/blog/views.py
 |4,39,5,0,1728300506,"~/my-django-blog/blog/views.py"
+-'  5  0  ~/my-django-blog/blog/views.py
+|4,39,5,0,1728300506,"~/my-django-blog/blog/views.py"
+-'  5  0  ~/my-django-blog/blog/views.py
+|4,39,5,0,1728300506,"~/my-django-blog/blog/views.py"
+-'  5  0  ~/my-django-blog/blog/views.py
+|4,39,5,0,1728300506,"~/my-django-blog/blog/views.py"
+-'  5  0  ~/my-django-blog/blog/views.py
+|4,39,5,0,1728300506,"~/my-django-blog/blog/views.py"
+-'  5  0  ~/my-django-blog/blog/views.py
+|4,39,5,0,1728300506,"~/my-django-blog/blog/views.py"
+-'  5  0  ~/my-django-blog/blog/views.py
+|4,39,5,0,1728300506,"~/my-django-blog/blog/views.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
+-'  3  0  ~/my-django-blog/blog/urls.py
+|4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
 -'  3  0  ~/my-django-blog/blog/urls.py
 |4,39,3,0,1728300414,"~/my-django-blog/blog/urls.py"
 -'  3  0  ~/my-django-blog/blog/urls.py
@@ -82,6 +140,54 @@
 |4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
 -'  6  34  ~/my-django-blog/mysite/urls.py
 |4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
+-'  6  34  ~/my-django-blog/mysite/urls.py
+|4,39,6,34,1728300371,"~/my-django-blog/mysite/urls.py"
 -'  2  36  ~/my-django-blog/mysite/urls.py
 |4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
 -'  2  36  ~/my-django-blog/mysite/urls.py
@@ -98,160 +204,65 @@
 |4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
 -'  2  36  ~/my-django-blog/mysite/urls.py
 |4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  119  14  ~/my-django-blog/mysite/settings.py
-|4,39,119,14,1728299219,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/mysite/settings.py
-|4,39,1,0,1728299180,"~/my-django-blog/mysite/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  1  0  ~/my-django-blog/settings.py
-|4,39,1,0,1728299168,"~/my-django-blog/settings.py"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
--'  26  0  ~/my-django-blog/blog/template/blog/post_list.html
-|4,39,26,0,1728298547,"~/my-django-blog/blog/template/blog/post_list.html"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
+-'  2  36  ~/my-django-blog/mysite/urls.py
+|4,39,2,36,1728300218,"~/my-django-blog/mysite/urls.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1734267821	0
+	"	1	0
+
+> ~/.gitignore
+	*	1734267630	0
+	"	5	0
+	^	5	0
+	.	4	19
+	+	4	19
 
 > ~/my-django-blog/blog/templates/blog/post_list.html
 	*	1728300634	0
