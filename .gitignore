@@ -1,0 +1,5 @@
+# 캐시 파일 및 로컬 설정 무시
+.cache/
+.local/
+my-django-blog/.git
+
